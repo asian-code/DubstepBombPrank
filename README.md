@@ -1,4 +1,6 @@
 # DubstepBombPrank
+### THIS PROGRAM DOES NOT HARM THE COMPUTER IN ANY WAY 
+
 ## What does it do?
 * It waits for a period of time (Hence the name "Bomb") and plays 2 dubstep songs + 1 Future Bass song.<br>
 * When the music is playing ,the volume is set to **MAX**.<br>
@@ -35,7 +37,7 @@ Located in :`C:\Users\(NameOfUser)\AppData\Roaming\Microsoft\Windows\Start Menu\
 3. hit "End task"
 
 ## Other info
-* The 3 songs are the mp3 files <br>(`Unstoppable` by Teminite, `Rattlesnake` by Teminite, and `We can get high` by Galantis & Yellow Claw )
+* The 3 songs are the mp3 files <br>(`Unstoppable by Teminite`, `Rattlesnake by Teminite`, and `We can get high by Galantis & Yellow Claw` )
 * **THIS PROGRAM DOES NOT HARM THE COMPUTER IN ANY WAY**<br>
 `This program was tested on Windows 10`
 
