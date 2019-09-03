@@ -16,8 +16,8 @@
 IM GLAD YOU ASKED !!<br>
 *They all are the same thing except for the last one*
 
-* The `1bomb.exe` file waits for 1 minute before running
-* The  `10bomb.exe` file waits for 10 minutes before running
+* The `1bomb.exe` file waits for 1 minute before running (2 DUBSTEP first then the EDM)
+* The  `10bomb.exe` file waits for 10 minutes before running (2 DUBSTEP first then the EDM)
 * The Last one is **INSTANT** but it plays the EDM song first then the 2 DUBSTEP songs (The nice version I guess :laughing:)
 
 ## How to remove the "Virus"/Prank
