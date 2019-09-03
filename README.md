@@ -20,9 +20,15 @@ IM GLAD YOU ASKED !!<br>
 * The  `10bomb.exe` file waits for 10 minutes before running
 * The Last one is **INSTANT** but it plays the EDM song first then the 2 DUBSTEP songs (The nice version I guess :laughing:)
 
-## How to remove/stop the "Virus"/Prank
-You can remove the program from the startup directy in windows, <br>
-Located in :`C:\Users\(NameOfUser)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+## How to remove the "Virus"/Prank
+You can remove the program from the startup directy in windows to permanently remove it from your PC, <br>
+Located in :`C:\Users\(NameOfUser)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`<br><br>
+
+### You can stop the program by
+
+1. going into task manager, 
+2. Select the program,
+3. hit "End task"
 
 ## Other info
 * The 3 songs are the mp3 files <br>(`Unstoppable` by Teminite, `Rattlesnake` by Teminite, and `We can get high` by Galantis & Yellow Claw )
