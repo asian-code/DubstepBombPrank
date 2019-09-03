@@ -12,7 +12,13 @@
 * About 25 MB of storage
 * A Windows computer
 <br><br>
+## What are the different EXE files?
+IM GLAD YOU ASKED !!<br>
+*They all are the same thing except for the last one*
 
+* The `1bomb.exe` file waits for 1 minute before running
+* The  `10bomb.exe` file waits for 10 minutes before running
+* The Last one is **INSTANT** but it plays the EDM song first then the 2 DUBSTEP songs (The nice version I guess :laughing:)
 ## Other info
 * The 3 songs are the mp3 files
 * **THIS PROGRAM DOES NOT HARM THE COMPUTER IN ANY WAY**<br>
