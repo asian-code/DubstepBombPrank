@@ -20,7 +20,7 @@ IM GLAD YOU ASKED !!<br>
 * The  `10bomb.exe` file waits for 10 minutes before running
 * The Last one is **INSTANT** but it plays the EDM song first then the 2 DUBSTEP songs (The nice version I guess :laughing:)
 ## Other info
-* The 3 songs are the mp3 files
+* The 3 songs are the mp3 files <br>(`Unstoppable` by Teminite, `Rattlesnake` by Teminite, and `We can get high` by Galantis & Yellow Claw )
 * **THIS PROGRAM DOES NOT HARM THE COMPUTER IN ANY WAY**<br>
 `This program was tested on Windows 10`
 
