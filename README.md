@@ -10,18 +10,26 @@ The program blast Dubstep and a EDM song at full volume everytime that PC turns 
 * **The program will run everytime that computer turns on** :smile:<br>
 *So pretty much everytime they turn on computer, their room **EXPLODES** with dubstep and they have to experience **EXTREME EAR-RAPE** :laughing:.....unless they really like dubstep then the prank is useless lol*
 * The Icon is from a Halo game so you can trick your friends that they are downloading a game.<br>
+* There is no window that pops up for the target to close the app.
 
 ## Requirements
 * About 25 MB of storage
 * A Windows computer
 <br><br>
+## How to run
+1. Pick a version of the prank (Pick the exe file that fit your needs)
+2. Run the EXE file on the target computer.
+3. RUN FAR AWAY AND WATCH YOUR FRIEND CONFUSED AF TRYING TO STOP THE SONG FROM PLAYING :laughing:
+
 ## What are the different EXE files?
 IM GLAD YOU ASKED !!<br>
 *They all are the same thing except for the last one*
 
 * The `1bomb.exe` file waits for 1 minute before running (2 DUBSTEP first then the EDM)
-* The  `10bomb.exe` file waits for 10 minutes before running (2 DUBSTEP first then the EDM)
+* The  `10bomb.exe` file waits for 10 minutes before running. (2 DUBSTEP first then the EDM)<br>
+*This is good for running on friends PC and walk away before your friend comes back to their computer*
 * The Last one is **INSTANT** but it plays the EDM song first then the 2 DUBSTEP songs (The nice version I guess :laughing:)
+
 
 ## How to remove the "Virus"/Prank
 You can remove the program from the startup directy in windows to permanently remove it from your PC, <br>
