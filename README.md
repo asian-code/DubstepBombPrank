@@ -5,7 +5,7 @@
 * **TARGET COMPUTER WILL NOT BE ABLE TO REDUCE THE VOLUME :smile:** <br>*Note: Volume controls return to normal after the songs are done playing*
 ## Ok..What so great about it?
 * **The program will run everytime that computer turns on** :smile:<br>
-*So pretty much everytime they turn on computer, they have to experience EXTREME EAR-RAPE :laughing:*
+*So pretty much everytime they turn on computer, their room **EXPLODES** with dubstep and they have to experience **EXTREME EAR-RAPE** :laughing:.....unless they really like dubstep then the prank is useless lol*
 * The Icon is from a Halo game so you can trick your friends that they are downloading a game.<br>
 
 ## Requirements
