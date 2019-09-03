@@ -23,6 +23,10 @@ IM GLAD YOU ASKED !!<br>
 ## How to remove the "Virus"/Prank
 You can remove the program from the startup directy in windows to permanently remove it from your PC, <br>
 Located in :`C:\Users\(NameOfUser)\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`<br><br>
+**OR**<br>
+1. Windows key + R
+2. Type in `shell:startup`
+3. Remove the prank exe file from that folder
 
 ### You can stop the program by
 
