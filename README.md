@@ -1,6 +1,7 @@
 # DubstepBombPrank
 ### THIS PROGRAM DOES NOT HARM THE COMPUTER IN ANY WAY 
-The program blast Dubstep and a EDM song at full volume everytime that PC turns on
+The program blast Dubstep and a EDM song at full volume everytime that PC starts up.
+### NOTE: PLEASE MAKE SURE THE PERSON YOUR DOING THIS TO IS NOT WEARING HEADPHONES TO PREVENT EAR DAMAGE
 
 ## What does it do?
 * It waits for a period of time (Hence the name "Bomb") and plays 2 dubstep songs + 1 Future Bass song.<br>
