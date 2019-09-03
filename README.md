@@ -1,6 +1,6 @@
 # DubstepBombPrank
 ## What does it do?
-* It waits for a certain period of time (Hence the name "Bomb") and plays 2 dubstep songs + 1 Future Bass song.<br>
+* It waits for a period of time (Hence the name "Bomb") and plays 2 dubstep songs + 1 Future Bass song.<br>
 * When the music is playing ,the volume is set to **MAX**.<br>
 * **TARGET COMPUTER WILL NOT BE ABLE TO REDUCE THE VOLUME :smile:** <br>*Note: Volume controls return to normal after the songs are done playing*
 ## Ok..What so great about it?
